@@ -1,6 +1,6 @@
 ## Description
 
-- NodeJs application with frontend and backennd APIa which leverages OpenAI LLM model to convert prompt to SQL query
+- NodeJs application with frontend and backennd API which leverages OpenAI LLM model to convert prompt to SQL query
 - This Application could be integerated with any platform with database connection to have easy to generate complex sql queryies and fetching of data from SQL database
 
 ## Tech stack 
